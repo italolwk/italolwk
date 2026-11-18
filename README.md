@@ -12,7 +12,7 @@
 
 ## 🧑‍💻 Sobre mim
 
-Olá! Sou estudante de **Ciência da Computação**, atualmente no 3º semestre, e estou construindo minha trajetória na área de tecnologia.
+Sou estudante de **Ciência da Computação**, atualmente no 4º semestre, e estou construindo minha trajetória na área de tecnologia.
 
 Tenho interesse em desenvolvimento de software, programação e tecnologia. Gosto de aprender novas ferramentas, resolver problemas e transformar conhecimentos em projetos práticos.
 
@@ -67,8 +67,7 @@ Projeto de jogo educativo desenvolvido em Godot 4, com foco na conscientização
 
 \<a href="[https://github.com/italolwk](https://github.com/italolwk)">🔗 Acessar meus repositórios\</a>
 
-\</td>
-\<td width="50%" valign="top">
+\</td> \<td width="50%" valign="top">
 
 ### 🌱 EcoHealth
 
@@ -84,11 +83,9 @@ Aplicação web voltada à conscientização ambiental e à saúde pública, com
 
 \<a href="[https://github.com/italolwk](https://github.com/italolwk)">🔗 Acessar meus repositórios\</a>
 
-\</td>
-\</tr>
+\</td> \</tr>
 
-\<tr>
-\<td width="50%" valign="top">
+\<tr> \<td width="50%" valign="top">
 
 ### ☕ Projetos em Java
 
@@ -101,8 +98,7 @@ Desenvolvimento de aplicações acadêmicas envolvendo estruturas de dados, lóg
 - SQL
 - H2
 
-\</td>
-\<td width="50%" valign="top">
+\</td> \<td width="50%" valign="top">
 
 ### 🔐 Estudos em programação
 
@@ -115,9 +111,7 @@ Projetos práticos para desenvolver conhecimentos em programação, automação,
 - HTML
 - CSS
 
-\</td>
-\</tr>
-\</table>
+\</td> \</tr> \</table>
 
 \</div>
 
@@ -153,9 +147,7 @@ Projetos práticos para desenvolver conhecimentos em programação, automação,
 
 \<div align="center">
 
-\<a href="[https://github.com/italolwk](https://github.com/italolwk)">
-\<img src="[https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=E50914](https://img.shields.io/badge/GitHub-000000?style=for-the-badge\&logo=github\&logoColor=E50914)"/>
-\</a>
+\<a href="[https://github.com/italolwk](https://github.com/italolwk)"> \<img src="[https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=E50914](https://img.shields.io/badge/GitHub-000000?style=for-the-badge\&logo=github\&logoColor=E50914)"/> \</a>
 
 \<!-- Adicione seu LinkedIn quando quiser -->
 
