@@ -1,202 +1,163 @@
-# \<div align="center">
 
-# ITALO GOMES RESENDE
+<div align="center">
 
-### Estudante de Ciência da Computação | Desenvolvedor em formação
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:5A0000,100:E50914&height=200&section=header&text=ITALO%20GOMES%20RESENDE&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Estudante%20de%20Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o%20%7C%20Desenvolvedor%20em%20forma%C3%A7%C3%A3o&descAlignY=58&descSize=16" width="100%"/>
 
-\<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=E50914&center=true&vCenter=true&width=700&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Desenvolvedor+em+forma%C3%A7%C3%A3o;Construindo+projetos+e+aprendendo+todos+os+dias;Transformando+ideias+em+c%C3%B3digo](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=22\&pause=1000\&color=E50914\&center=true\&vCenter=true\&width=700\&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Desenvolvedor+em+forma%C3%A7%C3%A3o;Construindo+projetos+e+aprendendo+todos+os+dias;Transformando+ideias+em+c%C3%B3digo)" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=E50914&center=true&vCenter=true&width=650&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Desenvolvedor+em+forma%C3%A7%C3%A3o;Desenvolvimento+Web+e+Software;Transformando+ideias+em+c%C3%B3digo" />
 
-\<br>
+<br/>
 
-\<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:8B0000,100\:E50914&height=180&section=header&text=ITALO%20GOMES%20RESENDE&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35](https://capsule-render.vercel.app/api?type=waving\&color=0:000000,50:8B0000,100\:E50914\&height=180\&section=header\&text=ITALO%20GOMES%20RESENDE\&fontSize=35\&fontColor=ffffff\&animation=fadeIn\&fontAlignY=35)" width="100%"/>
+<a href="https://github.com/italolwk">
+<img src="https://img.shields.io/badge/GitHub-italolwk-000000?style=for-the-badge&logo=github&logoColor=E50914"/>
+</a>
 
-\</div>
+<img src="https://img.shields.io/badge/Status-Estudando-E50914?style=for-the-badge"/>
+
+</div>
 
 ---
 
 ## 👨‍💻 Sobre mim
 
-Sou estudante de **Ciência da Computação** e desenvolvedor em formação.
+Sou estudante de **Ciência da Computação na Universidade Cruzeiro do Sul**, atualmente no 3º semestre.
 
-Tenho interesse em tecnologia e desenvolvimento de software, buscando transformar o conhecimento adquirido nos estudos em projetos práticos.
+Tenho interesse em desenvolvimento de software, tecnologia e resolução de problemas. Busco transformar o conhecimento adquirido na faculdade em aplicações e projetos práticos.
 
-Atualmente venho trabalhando e estudando diferentes tecnologias, explorando desde desenvolvimento web até programação, bancos de dados e desenvolvimento de aplicações.
-
-> 💻 Aprendendo na prática.
-> 🚀 Evoluindo projeto por projeto.
-> 🧠 Sempre buscando aprender algo novo.
+- 🎓 Ciência da Computação
+- 💻 Desenvolvimento de software
+- 🌐 Desenvolvimento Web
+- 🗄️ Banco de dados
+- 🚀 Projetos acadêmicos e pessoais
 
 ---
 
-## 🛠️ Tecnologias
+## 🛠️ Tecnologias e ferramentas
 
-\<div align="center">
+<div align="center">
 
 ### Linguagens
 
-\<img src="[https://skillicons.dev/icons?i=html,css,js,java,python](https://skillicons.dev/icons?i=html,css,js,java,python)" />
+<img src="https://skillicons.dev/icons?i=html,css,js,java,python" />
 
-\<br>\<br>
+<br/><br/>
 
-### Banco de dados e ferramentas
+### Frameworks e banco de dados
 
-\<img src="[https://skillicons.dev/icons?i=mysql,sqlite,flask,git,github,vscode](https://skillicons.dev/icons?i=mysql,sqlite,flask,git,github,vscode)" />
+<img src="https://skillicons.dev/icons?i=spring,flask,mysql,sqlite" />
 
-\</div>
+<br/><br/>
 
----
+### Ferramentas
 
-## 🚀 Projetos
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea" />
 
-\<div align="center">
-
-\<table> \<tr>
-
-\<td width="50%" align="center">
-
-### 🔴 Projeto 01
-
-**Nome do projeto**
-
-Descrição do projeto aqui.
-
-\<br>
-
-\<a href="LINK_DO_PROJETO"> \<img src="[https://img.shields.io/badge/VER%20PROJETO-E50914?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/VER%20PROJETO-E50914?style=for-the-badge\&logo=github\&logoColor=white)"> \</a>
-
-\</td>
-
-\<td width="50%" align="center">
-
-### ⚫ Projeto 02
-
-**Nome do projeto**
-
-Descrição do projeto aqui.
-
-\<br>
-
-\<a href="LINK_DO_PROJETO"> \<img src="[https://img.shields.io/badge/VER%20PROJETO-E50914?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/VER%20PROJETO-E50914?style=for-the-badge\&logo=github\&logoColor=white)"> \</a>
-
-\</td>
-
-\</tr>
-
-\<tr>
-
-\<td width="50%" align="center">
-
-### 🔴 Projeto 03
-
-**Nome do projeto**
-
-Descrição do projeto aqui.
-
-\<br>
-
-\<a href="LINK_DO_PROJETO"> \<img src="[https://img.shields.io/badge/VER%20PROJETO-E50914?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/VER%20PROJETO-E50914?style=for-the-badge\&logo=github\&logoColor=white)"> \</a>
-
-\</td>
-
-\<td width="50%" align="center">
-
-### ⚫ Projeto 04
-
-**Nome do projeto**
-
-Descrição do projeto aqui.
-
-\<br>
-
-\<a href="LINK_DO_PROJETO"> \<img src="[https://img.shields.io/badge/VER%20PROJETO-E50914?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/VER%20PROJETO-E50914?style=for-the-badge\&logo=github\&logoColor=white)"> \</a>
-
-\</td>
-
-\</tr>
-\</table>
-
-\</div>
+</div>
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 Projetos em destaque
 
-\<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-\<img height="180em" src="[https://github-readme-stats.vercel.app/api?username=italolwk&show_icons=true&theme=dark&include_all_commits=true&count_private=true&border_color=E50914&title_color=E50914&icon_color=E50914&text_color=FFFFFF&bg_color=000000](https://github-readme-stats.vercel.app/api?username=italolwk\&show_icons=true\&theme=dark\&include_all_commits=true\&count_private=true\&border_color=E50914\&title_color=E50914\&icon_color=E50914\&text_color=FFFFFF\&bg_color=000000)"/>
+### 🦟 Operação Mosquito Zero
 
-\<img height="180em" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=italolwk&layout=compact&langs_count=8&theme=dark&border_color=E50914&title_color=E50914&text_color=FFFFFF&bg_color=000000](https://github-readme-stats.vercel.app/api/top-langs/?username=italolwk\&layout=compact\&langs_count=8\&theme=dark\&border_color=E50914\&title_color=E50914\&text_color=FFFFFF\&bg_color=000000)"/>
+Jogo educativo desenvolvido em Godot 4.7 para conscientização infantil sobre a prevenção da dengue e identificação de focos do mosquito Aedes aegypti.
 
-\</div>
+**Tecnologias:** Godot, GDScript e Pixel Art.
 
----
+</td>
+<td width="50%" valign="top">
 
-## 🔥 GitHub Streak
+### 🌱 EcoHealth
 
-\<div align="center">
+Aplicação web voltada à conscientização ambiental e à saúde pública, com mapa interativo, registro de denúncias e visualização de informações.
 
-\<img src="[https://streak-stats.demolab.com?user=italolwk&theme=dark&background=000000&border=E50914&ring=E50914&fire=E50914&currStreakLabel=E50914&sideLabels=FFFFFF&dates=FFFFFF](https://streak-stats.demolab.com?user=italolwk\&theme=dark\&background=000000\&border=E50914\&ring=E50914\&fire=E50914\&currStreakLabel=E50914\&sideLabels=FFFFFF\&dates=FFFFFF)" />
+**Tecnologias:** HTML, CSS, JavaScript, Leaflet e Chart.js.
 
-\</div>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
----
+### ☕ Projetos Java
 
-## 📈 Activity Graph
+Aplicações acadêmicas envolvendo estruturas de dados, gerenciamento de informações e desenvolvimento de sistemas.
 
-\<div align="center">
+**Tecnologias:** Java, Spring Boot, SQL e H2.
 
-\<img src="[https://github-readme-activity-graph.vercel.app/graph?username=italolwk&bg_color=000000&color=ffffff&line=E50914&point=ffffff&area=true&hide_border=false&custom_title=Minha%20Atividade%20no%20GitHub](https://github-readme-activity-graph.vercel.app/graph?username=italolwk\&bg_color=000000\&color=ffffff\&line=E50914\&point=ffffff\&area=true\&hide_border=false\&custom_title=Minha%20Atividade%20no%20GitHub)" width="95%"/>
+</td>
+<td width="50%" valign="top">
 
-\</div>
+### 🔐 Estudos em programação
 
----
+Projetos práticos para aprimorar conhecimentos em programação, automação, lógica e desenvolvimento de aplicações.
 
-## 🏆 GitHub Trophies
+**Tecnologias:** Python, JavaScript, HTML e CSS.
 
-\<div align="center">
+</td>
+</tr>
+</table>
 
-\<img src="[https://github-profile-trophy.vercel.app/?username=italolwk&theme=darkhub&no-frame=true&no-bg=true&margin-w=5&column=4](https://github-profile-trophy.vercel.app/?username=italolwk\&theme=darkhub\&no-frame=true\&no-bg=true\&margin-w=5\&column=4)" width="95%"/>
+<div align="center">
 
-\</div>
+<a href="https://github.com/italolwk?tab=repositories">
+<img src="https://img.shields.io/badge/VER%20TODOS%20OS%20PROJETOS-E50914?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
----
-
-## 🌐 Redes sociais
-
-\<div align="center">
-
-\<a href="LINKEDIN_AQUI">
-\<img src="[https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=E50914](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge\&logo=linkedin\&logoColor=E50914)">
-\</a>
-
-\<a href="INSTAGRAM_AQUI">
-\<img src="[https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=E50914](https://img.shields.io/badge/Instagram-000000?style=for-the-badge\&logo=instagram\&logoColor=E50914)">
-\</a>
-
-\<a href="[https://github.com/italolwk](https://github.com/italolwk)">
-\<img src="[https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=E50914](https://img.shields.io/badge/GitHub-000000?style=for-the-badge\&logo=github\&logoColor=E50914)">
-\</a>
-
-\</div>
+</div>
 
 ---
 
-## 📌 Atualmente
+## 📊 GitHub Analytics
 
-```text
-🎓 Ciência da Computação
-💻 Desenvolvimento de software
-🌐 Desenvolvimento Web
-🗄️ Banco de Dados
-☕ Java
-🐍 Python
-⚡ JavaScript
-```
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=italolwk&show_icons=true&hide_border=true&bg_color=0D1117&title_color=E50914&icon_color=E50914&text_color=FFFFFF&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=italolwk&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=E50914&text_color=FFFFFF"/>
+
+</div>
 
 ---
 
-\<div align="center">
+## 🔥 Consistência e atividade
 
-### 🚀 Transformando conhecimento em código.
+<div align="center">
 
-\</div>
+<img src="https://streak-stats.demolab.com?user=italolwk&theme=dark&hide_border=true&background=0D1117&ring=E50914&fire=E50914&currStreakLabel=E50914&sideLabels=FFFFFF&dates=AAAAAA" width="90%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=italolwk&bg_color=0D1117&color=FFFFFF&line=E50914&point=E50914&area=true&hide_border=true&custom_title=Minha%20Atividade%20no%20GitHub" width="100%"/>
+
+</div>
+
+---
+
+## 🌐 Conecte-se comigo
+
+<div align="center">
+
+<a href="https://github.com/italolwk">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=E50914"/>
+</a>
+
+<!-- Adicione seu LinkedIn aqui -->
+<!-- <a href="SEU_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=E50914"/></a> -->
+
+<!-- Adicione seu Instagram aqui -->
+<!-- <a href="SEU_INSTAGRAM"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=E50914"/></a> -->
+
+</div>
+
+---
+
+<div align="center">
+
+### 💻 Aprendendo, desenvolvendo e evoluindo todos os dias.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:5A0000,100:E50914&height=110&section=footer" width="100%"/>
+
+</div>
